@@ -1,17 +1,21 @@
+# Hi there, I'm Ayan Luhar 👋
 
-## Hi there 👋
+I am a first-year Computer Engineering student based in Nadiad, currently studying at SPEC. I am at the very beginning of my tech journey, starting from scratch, and highly motivated to learn!
 
-<!--
-**CyberAyyan/CyberAyyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ About Me
+- 🎓 First-year BE Computer Engineering undergrad at SPEC (GTU).
+- 🌱 Currently taking my first steps into programming and software development.
+- 🎯 My long-term goal is to explore and specialize in Cybersecurity. 
+- 🤝 I am open to connecting with other students and mentors who can point me in the right direction.
+- ⚡ Fun fact: I am using GitHub to document my progress from zero to one.
 
-Here are some ideas to get you started:
+### 📚 What I am Learning Right Now
+*(Update this section every few weeks as your college classes progress!)*
+- The basics of programming logic and syntax.
+- How to navigate the command line and use basic tools.
+- Fundamental computer hardware and networking concepts. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- **LinkedIn:** https://www.linkedin.com/in/ayan-luhar-18b9443b9
+- **Email:** ayanluhar127@gmail.com
+  
